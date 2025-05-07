@@ -13,4 +13,4 @@ This project implements an optimization-based model for detecting credit card fr
 ## Overview
 The goal of this project is to detect fraudulent credit card transactions by formulating and solving an optimization problem that minimizes expected cost due to false positives and false negatives.
 
-All source code, notebooks, and data used in this project are included in the zip file.
+
